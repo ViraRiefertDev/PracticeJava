@@ -1,5 +1,16 @@
 package itProger.basics.massiv;
+/*
+Группа людей участвует в марафоне, их имена и время за которое они пробежали марафон вы можете увидеть ниже. Ваша задача найти человека, который быстрее всех пробежал дистанцию и вывести его имя и счет.
 
+String[][] names = {
+	{"Elena", "341"},
+	{"Thomas", "273"},
+	{"Hamilton", "294"},
+	{"Suzie", "402"},
+	{"Phil", "401"},
+	{"Matt", "388"}
+};
+ */
 public class MarathonWinner {
     public static void main(String[] args) {
         String[][] names = {
