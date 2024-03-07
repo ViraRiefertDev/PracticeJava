@@ -1,5 +1,9 @@
 package itProger.basics.methods;
 import java.util.Scanner;
+/*
+Получите от пользователя два числа.
+Создайте функцию, которая сравнивает числа пользователя и возвращает результат в виде знаков >, < или =.
+*/
 public class ComparisonOfNumbers {
     static Scanner scanner = new Scanner(System.in);
 
